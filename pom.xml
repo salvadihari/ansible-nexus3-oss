@@ -6,7 +6,7 @@
 
     <groupId>com.example.automation</groupId>
     <artifactId>nexus-script-demo</artifactId>
-    <version>1.0</version>
+    <version>1.0-SNAPSHOT</version>
     <description>Fake project meant to be imported in an IDE (IntelliJ) to edit groovy scripts with classpath-aware completion</description>
 
     <properties>
